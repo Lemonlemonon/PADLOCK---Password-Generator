@@ -4,11 +4,11 @@ PadLock is a web based application that creates random passwords based on two pa
 This project build with React js to interact with the database API and build a user interface.​
 This project uses firebase for the hosting of the website, Authentication and Firestore for the database.​  
 ## Encrypiton Page
-
+https://user-images.githubusercontent.com/82900475/209389103-01a6d27e-bec5-4ebf-9d64-6b4a176b11ad.png
 ## Password Storing Page
-
+https://user-images.githubusercontent.com/82900475/209389544-caeae3aa-9e71-4360-960e-48ccc9b17751.png
 ## Sign-in/Sign-up Page
-
+https://user-images.githubusercontent.com/82900475/209389865-af5b93f5-73e1-4e51-a516-a48cfa0ddb3e.png
 ## To view the deployed website:
 Open [https://password-generator-6d930.web.app] to view it in the browser.
 
