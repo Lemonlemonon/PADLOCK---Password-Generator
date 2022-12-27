@@ -10,7 +10,7 @@ This project uses firebase for the hosting of the website, Authentication and Fi
 ## Sign-in/Sign-up Page
 ![image](https://user-images.githubusercontent.com/82900475/209389865-af5b93f5-73e1-4e51-a516-a48cfa0ddb3e.png)
 ## To view the deployed website:
-Open [https://password-generator-6d930.web.app] to view it in the browser.
+Open [https://password-generator-6d930.web.app/signin.html] to view it in the browser.
 
 ## To run the Website in Localhost:
 1. Then Open up your chosen terminal. I tend to use cmd.
